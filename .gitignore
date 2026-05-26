@@ -1,0 +1,25 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Tool and editor state
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+.agents/
+.codex/
+
+# Training artifacts and model checkpoints
+SB_ECC_Results/
+*.pt
+*.pth
+*.ckpt
+
+# Local environment files
+.env
+.env.*

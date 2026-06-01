@@ -1,6 +1,6 @@
 # SB-ECC: Score-Based Error Correction Codes
 
-A score-based neural decoder for linear block codes.
+This repo is the offical code of [Score Based Error Correcting Code Decoder (ICML 2026)]([url](https://arxiv.org/pdf/2605.28358)) 
 
 ## Requirements
 
